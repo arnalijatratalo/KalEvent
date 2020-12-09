@@ -1,0 +1,10 @@
+D:\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.exe.config
+D:\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.exe
+D:\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.pdb
+D:\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.csprojResolveAssemblyReference.cache
+D:\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Properties.Resources.resources
+D:\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.csproj.GenerateResource.Cache
+D:\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.exe
+D:\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.pdb
+D:\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.FormKalkulator.resources
+D:\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.FormKalkulatorOperasi.resources
